@@ -1,0 +1,17 @@
+#!/bin/bash
+
+makdir task 7
+
+ls
+
+touch problem2
+
+ls 
+
+cd task7
+
+ls
+
+nano problem2
+
+
